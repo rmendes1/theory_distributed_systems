@@ -1,3 +1,5 @@
+# Distributed Systems L1: What and Why?
+
 ### **Lecture Overview**
 
 **Instructor**: Lindsay Cooper (UC Santa Cruz)
