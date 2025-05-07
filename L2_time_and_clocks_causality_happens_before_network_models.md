@@ -35,8 +35,6 @@
 
 - Used a time-of-day clock instead of a monotonic clock, causing issues due to clock adjustments.
 
----
-
 ## **3. Physical vs. Logical Clocks**
 
 ### **Physical Clocks (Time-of-Day & Monotonic)**
@@ -51,8 +49,6 @@
     - What does this tell me about causality?
         - A could have caused B
         - B could not have caused A
-
----
 
 ## **4. Causality and Happens-Before Relation**
 
@@ -80,8 +76,6 @@
 
 ![image.png](attachment:f4078263-1b0e-49fe-82eb-956cec2e0b0b:image.png)
 
----
-
 ## **5. Network Models**
 
 ### **Synchronous Networks**
@@ -101,8 +95,6 @@ There is an **n** such that no message takes longer than **n units of time** to 
 
 - Upper bound exists but is **unknown** in advance.
 - Useful for verification but not commonly used in practice.
-
----
 
 ## **6. State and Events**
 
