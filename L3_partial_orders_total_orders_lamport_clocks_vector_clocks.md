@@ -91,7 +91,7 @@ Hence, it's classified as a **strict (irreflexive) partial order**.
     - Mutual subset relationship implies equality (anti-symmetry).
     - Chain of subsets is transitive.
     
-    ![image.png](attachment:bcffab6c-8344-4cf5-8b03-6093e1337e40:image.png)
+    <img src="/images/L3/L3_image1.png"/>
     
 
 ## **3. Total Orders**
@@ -153,7 +153,7 @@ Lamport clocks are **scalar** counters. They give us a total order of timestamps
 
 ### Consider this scenario:
 
-![image.png](attachment:56ae0b98-05a3-4db1-b62c-0f87a26415e6:image.png)
+<img src="/images/L3/L3_image2.png"/>
 
 - Both events are **independent**, no messages between them.
 - So **A || B** (they are concurrent).
