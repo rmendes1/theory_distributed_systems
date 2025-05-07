@@ -14,7 +14,7 @@ O objetivo principal deste repositório é oferecer um material de apoio que sin
 
 ## 📚 Conteúdo
 
-- `0L1_what_and_why.md` — Introdução à disciplina e definição de sistemas distribuídos  
+- `L1_what_and_why.md` — Introdução à disciplina e definição de sistemas distribuídos  
 - `L2_time_and_clocks_causality_happens_before_network_models.md` — Modelagem de tempo, relógios lógicos e ordenação de eventos   
 - `L3_partial_orders_total_orders_lamport_clocks_vector_clocks.md` —  Relações de ordem parcial e total, Relógios de Lamport e Relógios Vetores
 ---
