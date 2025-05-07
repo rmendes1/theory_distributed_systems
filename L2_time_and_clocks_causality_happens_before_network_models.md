@@ -1,4 +1,6 @@
-# 1. Introduction - Agenda
+# Distributed Systems L2: Time and clocks, causality and happens-before, network models
+
+## 1. Introduction - Agenda
 
 - Time and clocks
 - Lan port diagrams
@@ -6,7 +8,7 @@
 - Causality and happens-before
 - State and events
 
-# 2. Time and Clocks
+## 2. Time and Clocks
 
 ### **Uses of Time in Software**
 
