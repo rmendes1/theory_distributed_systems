@@ -59,7 +59,7 @@
     - If A is a **send** and B is the corresponding **receive**, then **A → B**.
     - **Transitivity:** If **A → B** and **B → C**, then **A → C**.
     
-    ![image.png](attachment:83b344e6-7e78-449d-ba58-9080497e27b4:image.png)
+    <img src="/images/L2/L2_image1.png"/>
     
 
 ### **Lamport (Space-Time) Diagrams**
@@ -74,7 +74,7 @@
 - Bob replies rudely before Carol receives Alice’s message.
 - **Result:** Carol sees Bob’s reply first (violates causality).
 
-![image.png](attachment:f4078263-1b0e-49fe-82eb-956cec2e0b0b:image.png)
+<img src="/images/L2/L2_image2.png"/>
 
 ## **5. Network Models**
 
@@ -103,7 +103,7 @@ There is an **n** such that no message takes longer than **n units of time** to 
 - Represents a machine’s knowledge (e.g., memory, registers).
 - Determined by **all prior events** up to that point.
 
-![image.png](attachment:9adc840f-3d99-4020-9dd7-05dedc312490:image.png)
+<img src="/images/L2/L2_image3.png"/>
 
 ### **Events**
 
