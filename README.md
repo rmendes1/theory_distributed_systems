@@ -14,6 +14,7 @@ The main goal of this repository is to provide a study resource that synthesizes
 - `L1_what_and_why.md` — Introduction to the course and definition of distributed systems
 - `L2_time_and_clocks_causality_happens_before_network_models.md` — Time and Clocks, Causality, Happens-before relation
 - `L3_partial_orders_total_orders_lamport_clocks_vector_clocks.md` —  Partial and Total Orders, Lamport and Vector Clocks
+- L4_fifo_totally_ordered_delivery.md - Vector Clocks, FIFO, Causal and Totally-ordered delivery
 
 ## 🛠️ How to Use
 
