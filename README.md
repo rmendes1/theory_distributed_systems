@@ -1,6 +1,6 @@
 # Theory of Distributed Systems 📘
 
-This repository contains a set of structured notes based on the course **CSE138 - Distributed Systems** from UC Santa Cruz, taught by Professor Lorenzo Alvisi and publicly available on YouTube.
+This repository contains a set of structured notes based on the course **CSE138 - Distributed Systems** from UC Santa Cruz, taught by Professor Lindsey Kuper and publicly available on YouTube.
 
 The notes are organized into chapters focusing on the fundamental concepts of distributed systems, including time models, consistency, event ordering, fault tolerance, and consensus.
 
